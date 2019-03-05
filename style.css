@@ -1,0 +1,100 @@
+
+/* CSS */
+body {
+    margin: 0;
+}
+
+span {
+    margin: 100px 100px 100px 100px;
+	margin-top:100px;
+    padding: 10px 20px;
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 100px;
+    cursor: pointer;
+	b
+}
+
+#header {
+    height: 150px;
+ background-color:#3573d6;
+    background-size: cover;
+    background-position: center;
+
+}
+
+#title {
+    color: #ff2d34;
+    margin: -70px 200px;
+    padding: 50px 90px;
+	font-size:600%;
+}	
+#navigation {
+    color: lightcoral;
+    text-align: left;
+    padding: 0px 20px;
+}
+}
+#spotlights{
+font-size:30px;
+
+
+}
+#starwarsbutton{
+	width:1030px;
+	height:450px;
+}
+#starwars{
+	
+}
+#marvelbutton{
+	width:1030px;
+	height:450px;
+
+}
+#transformersbutton{
+	width:1030px;
+	height:450px;
+}
+#home-right {
+    padding: 0 20px;
+  font-family:fantasy;
+}
+
+.card {
+    width: 300px;
+    margin-left: 200px;
+    margin-bottom: 20px;
+    box-shadow: 0 1px 5px rgba(0, 0, 0, 0.3);
+    border-radius: 2px;
+    overflow: hidden;
+    float: left;
+  background-color:#e5ff00;
+  color: #black;
+}
+
+.card-image {
+    width: 100%;
+}
+.marvelcard {
+	 width: 300px;
+    margin-left: 200px;
+    margin-bottom: 20px;
+    box-shadow: 0 1px 5px rgba(0, 0, 0, 0.3);
+    border-radius: 2px;
+    overflow: hidden;
+    float: left;
+  background-color:red;
+  color: #black;
+}
+
+.tfcard {
+	 width: 300px;
+    margin-left: 200px;
+    margin-bottom: 20px;
+    box-shadow: 0 1px 5px rgba(0, 0, 0, 0.3);
+    border-radius: 2px;
+    overflow: hidden;
+    float: left;
+  background-color:lime;
+  color: #black;
+}
